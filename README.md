@@ -28,12 +28,19 @@
 # Key Questions This Dashboard Answers
 
 ✅ Are we making money consistently or is it sporadic?
+
 ✅ Which time periods should we focus our efforts on?
+
 ✅ Is our gross profit trending up or down?
+
 ✅ What's our daily break-even point?
+
 ✅ How do current profits compare to last month/year?
+
 ✅ Are there any concerning patterns we should address?
+
 ✅ What's our most profitable day/week/month?
+
 ✅ How much variance is there in our daily performance?
 
 # Actionable Outcomes
