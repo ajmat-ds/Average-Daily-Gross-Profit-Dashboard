@@ -1,6 +1,8 @@
 # Built With
 **Power BI Desktop** - For creating the interactive dashboard
+
 **DAX (Data Analysis Expressions)** - For calculating those juicy metrics
+
 **Power Query** - For data cleaning and transformation
 
 # Operational Insights
